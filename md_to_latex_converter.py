@@ -17,15 +17,11 @@ INPUT_DIR_MD = Path("MarkDownSections") # Directory corrente, dove si trovano i 
 # Questo ordine verrà usato per generare i file sezioni/sezioneN.tex
 # e per l'inclusione in sections/all.tex
 MD_FILES_ORDER = [
-    "introduzione.md",
     "capitolo1.md",
     "capitolo2.md",
     "capitolo3.md",
     "capitolo4.md",
     "capitolo5.md",
-    "capitolo6.md",
-    "capitolo7.md",    
-    "capitolo8.md",    
     "conclusione.md"    
 ]
 

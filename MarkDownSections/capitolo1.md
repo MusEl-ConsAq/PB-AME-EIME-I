@@ -1,0 +1,19 @@
+# Note Bibliografiche e Contesto storico
+
+Alvin Lucier (1931-2021) nacque a Nashua, New Hampshire, dove completò la formazione primaria. Proseguì gli studi presso la Portsmouth Abbey School e successivamente si laureò a Yale e Brandeis University. Grazie a una prestigiosa borsa di studio Fulbright, trascorse due anni di perfezionamento a Roma.
+
+Durante il suo soggiorno in Europa, ebbe modo di entrare in contatto con le avanguardie musicali del tempo, specialmente Milano e Darmstadt, che negli anni seguenti influenzarono profondamente il suo approccio compositivo.
+
+La carriera accademica di Lucier iniziò nel 1962 presso la Brandeis University, dove insegnò fino al 1970 dirigendo il Brandeis University Chamber Chorus, ensemble specializzato nell'esecuzione di musica contemporanea. Durante questo periodo, nel 1966, co-fondò la Sonic Arts Union insieme a Robert Ashley, David Behrman e Gordon Mumma, collettivo che divenne fondamentale per lo sviluppo della musica sperimentale americana.
+
+Dal 1968 al 2011 insegnò presso la Wesleyan University, dove ricoprì la cattedra John Spencer Camp di Musica, formando generazioni di giovani compositori. Parallelamente all'attività didattica, mantenne un'intensa attività concertistica e di conferenze in Asia, Europa e Stati Uniti.
+
+Lucier è stato un pioniere in molti ambiti della composizione, concentrando gran parte della sua produzione sulle proprietà fisiche del suono stesso: la risonanza degli spazi, l'interferenza di fase tra toni con accordatura ravvicinata e la trasmissione del suono attraverso mezzi fisici. Come osservò il compositore James Tenney, Lucier apparteneva a quella rara categoria di compositori il cui lavoro "è così convincente e al tempo stesso così diverso da quello dei suoi contemporanei e predecessori da costringerci a rivedere i nostri assunti fondamentali sulla musica".
+
+La prima opera significativa in cui esplorò le caratteristiche fenomenologiche del suono fu "Music for Solo Performer"(1965), sottotitolata "for enormously amplified brain waves and percussion". Come sottolineò Lucier, questo brano segnò una svolta nel suo percorso. Durante la sua direzione del Brandeis University Chamber Chorus, incontrò il fisico Edmond Dewan, che gli propose di sperimentare con apparecchiature per elettroencefalogrammi. Lucier rimase affascinato dalle onde alfa (8-13 Hz), inudibili all'orecchio umano. Rifiutando di trasporle o registrarle su nastro, ideò un sistema che le amplificava al punto da far risuonare strumenti percussivi disposti sul palco, senza bisogno di musicisti.
+
+L'esperienza con 'Music for Solo Performer' aprì a Lucier una nuova comprensione del suono come fenomeno fisico misurabile, studiando in che modo le onde attraversano lo spazio. Come disse in un'intervista:
+
+"Pensare ai suoni come lunghezze d'onda misurabili, anziché come note musicali, ha trasformato la mia idea di musica da metafora a fatto concreto, collegandomi all'architettura."
+
+Questa nuova prospettiva lo portò a esplorare sistematicamente l'acustica degli spazi. In Vespers(1968), i musicisti bendati si muovevano con dispositivi di ecolocalizzazione, producendo click direzionali i cui echi rivelavano la conformazione dell'ambiente. L'anno successivo, in I Am Sitting in a Room (1969), utilizzò un processo ancora più diretto per far emergere le frequenze di risonanza naturali di uno spazio attraverso registrazioni in serie della propria voce.
